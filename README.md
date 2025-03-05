@@ -21,4 +21,4 @@ In questi file mancava la creazione del service-account e quindi ho aggiunto que
 
 
 ## Solution Architecture Diagram
-
+![Solution Architecture Diagram](percorso/dell/immagine.estensione)
