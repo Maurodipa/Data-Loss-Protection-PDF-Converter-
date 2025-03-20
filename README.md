@@ -84,6 +84,12 @@ terraform -chdir=terraform output
 # test
 gsutil cp ./test_file.pdf [INPUT_BUCKET_FROM_OUTPUT e.g. gs://pdf-input-bucket-xxxx]
 
+
+
+# Additional notes
+Il seguente cloudskillboost training offre una soluzione per trasformare dei files google docx in pdf: https://www.cloudskillsboost.google/games/5979/labs/38169
+
+
 # Explore results
 Download the redacted pdf file, open it with your preferred pdf reader, and search for text in the PDF file.
 
